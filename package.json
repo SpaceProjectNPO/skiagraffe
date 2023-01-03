@@ -1,0 +1,22 @@
+{
+  "name": "@spaceproject/skiagraffe",
+  "version": "0.1.0",
+  "description": "A pseudo framework for draggable components",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/spaceproject_/skiagraffe.git"
+  },
+  "keywords": [
+    "draggable"
+  ],
+  "author": "GaryCraft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/spaceproject_/skiagraffe/issues"
+  },
+  "homepage": "https://gitlab.com/spaceproject_/skiagraffe#readme"
+}
