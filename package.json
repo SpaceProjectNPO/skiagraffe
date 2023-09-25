@@ -1,7 +1,7 @@
 {
   "name": "@spaceproject/skiagraffe",
   "version": "0.1.0",
-  "description": "A pseudo framework for draggable components",
+  "description": "A pseudo framework for creating web apps drag and dropping components",
   "main": "dist/index.js",
   "scripts": {
     "test": "npm run test"
